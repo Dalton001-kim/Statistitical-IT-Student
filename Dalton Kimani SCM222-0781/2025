@@ -1,0 +1,78 @@
+# Statistitical-ITSUMMARY OF STA 2102 – INFORMATION TECHNOLOGY FOR STATISTICS
+
+1. Introduction to IT
+- IT deals with design, development, use, and management of computer-based systems.
+- Used for automation, decision-making, communication, and productivity.
+- IT specialists select, install, integrate, secure, and maintain hardware/software.
+
+2. Classification of Computers
+- Supercomputers: Extremely fast, for scientific work and simulations.
+- Mainframes: Support thousands of users at once.
+- Minicomputers: Mid-range, support hundreds of users.
+- Workstations: High-performance single-user systems for graphics and engineering.
+- Personal Computers: Single-user; desktops, laptops, notebooks, handhelds, palmtops, PDAs.
+
+3. Data and Information
+- Data: Raw facts.
+- Information: Processed data with meaning.
+
+4. Bits, Bytes, and Number Systems
+- Bit: Smallest unit (0 or 1).
+- Byte: 8 bits.
+- Number systems: Binary, Octal, Decimal, Hexadecimal.
+
+5. Analog vs Digital Signals
+- Analog: Continuous signals, high detail, but noisy.
+- Digital: Discrete 0s and 1s, less noise, easier to store.
+
+6. Computer Components
+Input: Keyboard, mouse, scanner.
+Output: Monitor, printer.
+Memory:
+- Primary (RAM): Fast, temporary.
+- Secondary: Hard disks, tapes.
+CPU:
+- ALU: Arithmetic and logic.
+- Control Unit: Coordinates all operations.
+- Registers: High-speed temporary storage.
+
+7. File Types and Access Methods
+- Serial/Sequential: Records stored in order; slow search.
+- Random Access: Fixed-length records; fast access.
+- Data files: Store information for later use.
+
+8. Operating Systems
+Functions:
+- Resource management
+- Task management
+- File management
+- User interface
+Examples: DOS, Windows, Unix, Mac OS.
+
+9. Utility Software
+Examples:
+- Antivirus
+- Backup tools
+- Disk cleaners
+- Disk defragmenters
+- File managers
+- Compression utilities
+
+10. Compilers
+- Translate source code into machine code.
+- Steps: Lexical analysis, parsing, semantic analysis, code generation, optimization.
+
+11. Variable-Length Codes
+- Codes with different lengths (Huffman, Shannon-Fano).
+- Used for lossless data compression.
+
+12. ASCII
+- 7-bit encoding for letters, numbers, and symbols (128 characters).
+
+13. Web and Hypermedia
+- Hypermedia: Text, images, audio, videos linked together.
+- World Wide Web: Interlinked documents accessed via the internet.
+Components:
+- Internet (network infrastructure)
+- Servers (store information)
+- Web browsers (access information)
