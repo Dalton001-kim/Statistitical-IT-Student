@@ -1,0 +1,171 @@
+Dalton Kimani– STA 2102: INFORMATION TECHNOLOGY FOR STATISTICS
+
+1. Introduction to Information Technology (IT)
+- IT involves the study, design, development, implementation, support, and management of computer-based information systems.
+- Originally used in the 1960s–1970s mainly for storing information in institutions.
+- Modern IT supports automation, decision-making, communication, data processing, and productivity.
+- IT specialists configure hardware/software, install networks, manage security, create web pages, and maintain systems.
+
+2. Classification and Types of Computers
+Supercomputers:
+- Extremely powerful, very fast, expensive.
+- Used for weather forecasting, scientific simulations, nuclear research.
+
+Mainframes:
+- Support thousands of users at once.
+- Used in banks, insurance firms, government.
+
+Minicomputers:
+- Mid-range systems supporting dozens to hundreds of users.
+
+Workstations:
+- High-performance computers for engineering, CAD, graphics, and software development.
+
+Personal Computers (PCs):
+- Single-user systems.
+- Types include desktop, tower, laptop, notebook, subnotebook, handheld, palmtop, PDA.
+
+3. Data vs Information
+- Data: raw, unprocessed facts.
+- Information: processed, meaningful data.
+
+4. Bits, Bytes, and Storage Units
+- Bit: smallest unit of data (0 or 1).
+- Byte: 8 bits; stores one character.
+- Storage units based on powers of 2 (binary).
+
+5. Analog vs Digital Signals
+Analog:
+- Continuous signals; high detail but easily affected by noise.
+
+Digital:
+- Discrete signals (0 and 1); less noise, easy to store, transmit, and process.
+
+Advantages of digital:
+- Error correction, high capacity, easy copying, efficient transmission.
+
+6. Computer Hardware Components
+
+Input Devices:
+- Keyboard, mouse, scanner, trackball, joystick.
+
+Output Devices:
+- Monitor, printer, speakers.
+
+Memory:
+Primary memory (RAM):
+- Fast, temporary, expensive.
+- Stores running programs and data.
+
+Secondary storage:
+- Permanent; includes hard disks, CDs, flash drives.
+
+CPU (Central Processing Unit):
+- The “brain” of the computer.
+
+CPU components:
+1. ALU (Arithmetic & Logic Unit): performs calculations and logical operations.
+2. Control Unit: coordinates all computer activities.
+3. Registers: fast, tiny storage for temporary data.
+
+Important registers:
+- Program Counter (PC): address of next instruction.
+- Instruction Register (IR): current instruction.
+- MAR (Memory Address Register)
+- MDR (Memory Data Register)
+- General-purpose registers (R0–Rn)
+
+7. File Types and Storage Organization
+Serial/Sequential Files:
+- Records stored in the order created.
+- Searching is slow.
+- Used in transaction logs.
+
+Random Access Files:
+- Fixed-length records.
+- Fast access using addresses.
+
+Disk Storage:
+- Organized into tracks and sectors.
+- Sectors store blocks of data.
+- Clusters are groups of sectors.
+
+8. System Software
+Categories:
+
+1) System Management Programs:
+- Operating systems, database managers, communication systems.
+
+2) System Support Programs:
+- Utilities, performance monitors, security tools.
+
+3) System Development Programs:
+- Compilers, editors, IDEs, CASE tools.
+
+9. Operating Systems (OS)
+Roles of OS:
+- Resource management (CPU, memory, devices)
+- Task management (multitasking)
+- File management (creating, deleting, reading files)
+- User interface (GUI or command line)
+
+Booting Process:
+- OS loads from storage into memory.
+- Interrupt tables and device drivers are loaded.
+
+10. Utility Software
+- Used for maintenance, optimization, diagnostics.
+
+Examples:
+- Antivirus, backup utilities, disk defragmenters,
+- Disk cleanup tools, compression tools,
+- Encryption utilities, file managers.
+
+11. Compilers
+- Translate high-level programs to machine code.
+
+Compiler stages:
+- Lexical analysis
+- Parsing
+- Syntax checking
+- Semantic analysis
+- Code generation
+- Code optimization
+
+12. Variable-Length Codes
+- Codes where symbols use different lengths.
+- Short codes for frequent symbols, long codes for rare symbols.
+- Used in data compression (Huffman, Shannon-Fano).
+- Must be uniquely decodable.
+
+13. ASCII
+- 7-bit encoding standard (128 characters).
+- Includes letters, digits, punctuation, control characters.
+- Extended ASCII uses 8 bits (256 characters).
+
+14. Number Systems
+Binary (Base 2):
+- Digits: 0, 1
+Octal (Base 8):
+- Digits: 0–7
+Decimal (Base 10):
+- Digits: 0–9
+Hexadecimal (Base 16):
+- Digits: 0–9, A–F
+
+Each system is used for different computing tasks.
+
+15. The World Wide Web (WWW)
+- A system of interlinked documents accessed online.
+
+Components:
+- Internet: global network infrastructure
+- Servers: store and deliver web pages
+- Browsers: retrieve and display pages
+
+How the Web Works:
+- User types a URL.
+- Browser sends DNS query.
+- DNS returns server IP.
+- Browser sends HTTP request.
+- Server responds with webpage content.
